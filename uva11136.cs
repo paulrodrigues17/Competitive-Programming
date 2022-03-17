@@ -1,10 +1,9 @@
-﻿using System;
+using System;
 
-//CORRETO
 
 namespace uva11286
 {
-    class Program
+    class Test
     {
         static void Main(string[] args)
         {
