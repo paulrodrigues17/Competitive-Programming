@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace uva11572
 {
-    class Program
+    class Test
     {
         static void Main(string[] args)
         {
