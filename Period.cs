@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Period
 {
-    class Program
+    class Test
     {
         static void Main(string[] args)
         {
