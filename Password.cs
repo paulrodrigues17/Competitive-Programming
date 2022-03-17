@@ -2,7 +2,7 @@
 
 namespace Password
 {
-    class Program
+    class Test
     {
         static int[] prox = new int[1000000]; 
         static void Main(string[] args)
