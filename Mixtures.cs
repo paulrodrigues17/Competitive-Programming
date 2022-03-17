@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Mixtures
 {
-    class Program
+    class Test
     {
         static long[,] dp;
         static int[] arr;
