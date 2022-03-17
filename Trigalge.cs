@@ -2,7 +2,7 @@
 
 namespace Trigalge
 {
-    class Program
+    class Test
     {
         static double a;
         static double b;
